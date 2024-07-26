@@ -1,0 +1,29 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": [],
+		"include": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"bigPackageSizeSupport": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "3.5.1",
+	"appid": "wxc2deb45ffc53c86b",
+	"projectname": "WE",
+	"condition": {},
+	"editorSetting": {
+		"tabIndent": "tab",
+		"tabSize": 2
+	}
+}
